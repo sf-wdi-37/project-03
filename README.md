@@ -114,7 +114,7 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 ###### When is the project due?
 
-* **Wednesday, June 7th by 4pm** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
+* **Thursday, June 8th by 9am** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
 
 * **Thursday, June 15th at 1:30pm** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
