@@ -6,7 +6,7 @@ You'll be receiving written feedback from your instructors after completing the 
 
 * **Technical Requirements**: Did you deliver a project that met all the technical requirements? Did you build something that was reasonably complex with the technical knowledge you've gained in the course?
 
-* **Creativity**: Did you add a personal spin or creative element to your project? Did you deliver something of value to the end user?
+* **Creativity / User Experience**: Did you add a personal spin or creative element to your project? Did you deliver something of value to the end user?
 
 * **Code Quality**: Did you follow code style guidance and best practices covered in class, such as indentation, spacing, modularity, and semantic naming? Did you comment your code and document your project?
 
