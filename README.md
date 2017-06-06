@@ -36,7 +36,8 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 * **Discover or invent an idea**, preferably one with some group of users that would jump at the chance to really use your product.
 * **Design a product *you* want to build**, and choose _appropriate technologies_ to build it.
-* **Pitch your idea** to your classmates and instructors, and incorporate their feedback.
+* **Pitch your idea** to your classmates and 
+s, and incorporate their feedback.
 * **Make productive use of your time**, and balance responsibilities to make a complete, impressive-looking project.
 * **Focus on writing solid, real-world code** that is well-documented and DRY.
 
@@ -114,9 +115,9 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 ###### When is the project due?
 
-* **{{ENTER PROJECT PLANNING DELIVERABLES HERE}}** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
+* **Wednesday, June 7th by 4pm** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
 
-* **{{ENTER PROJECT PRESENTATION AND DUE DATE HERE}}** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+* **Thursday, June 15th at 1:30pm** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
 ---
 
@@ -133,7 +134,7 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 ###### What should I cover during my presentation?
 
-Project 3 presentations will start at **{{ENTER TIME HERE}}** on **{{ENTER DUE DATE HERE}}**. Each presentation should be **8 minutes or less** and cover the following:
+Project 3 presentations will start at **{{ENTER TIME HERE}}** on **{{ENTER DUE DATE HERE}}**. Each presentation should be **10 minutes or less** and cover the following:
 
 * What was your motivation to build this project?
 * Demo of your project's core functionality.
@@ -144,17 +145,9 @@ Project 3 presentations will start at **{{ENTER TIME HERE}}** on **{{ENTER DUE D
 
 ## Instructor Groups
 
-###### Who will be my assigned instructor / DIR for this project?
+###### Who will be my assigned instructor for this project?
 
-You'll meet with your assigned instructor / DIR daily to guide you throughout the project. They will also be sending you feedback on the project afterwards.
-
-#### INSTRUCTOR
-
-* TBD
-* TBD
-* TBD
-* TBD
-
+You'll meet with your assigned instructor daily throughout the project for feedback and guidance. 
 
 #### INSTRUCTOR
 
@@ -162,6 +155,7 @@ You'll meet with your assigned instructor / DIR daily to guide you throughout th
 * TBD
 * TBD
 * TBD
+
 
 #### INSTRUCTOR
 
