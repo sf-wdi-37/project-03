@@ -26,7 +26,7 @@
 
 Make sure it's **something you can accomplish in the limited time we have**, and make sure it's **something that will be visually impressive**.
 
-**You may work on this project individually or in pairs.** See the [project planning deliverables](#project-planning-deliverables) section below for extra planning requirements for pairs.
+**Most will work on this project individually, but pairs may be approved in special cases.**  See the [project planning deliverables](#project-planning-deliverables) section below for extra planning requirements for pairs.
 
 ---
 
@@ -134,7 +134,7 @@ s, and incorporate their feedback.
 
 ###### What should I cover during my presentation?
 
-Project 3 presentations will start at **{{ENTER TIME HERE}}** on **{{ENTER DUE DATE HERE}}**. Each presentation should be **10 minutes or less** and cover the following:
+Project 3 presentations will start at **1:30pm** on **Thursday, June 15th, 2017**. Each presentation should be **10 minutes or less** and cover the following:
 
 * What was your motivation to build this project?
 * Demo of your project's core functionality.
@@ -149,7 +149,7 @@ Project 3 presentations will start at **{{ENTER TIME HERE}}** on **{{ENTER DUE D
 
 You'll meet with your assigned instructor daily throughout the project for feedback and guidance. 
 
-#### INSTRUCTOR
+#### Instructor: Brianna
 
 * TBD
 * TBD
@@ -157,7 +157,7 @@ You'll meet with your assigned instructor daily throughout the project for feedb
 * TBD
 
 
-#### INSTRUCTOR
+#### Instructors: Cory / Jean
 
 * TBD
 * TBD
