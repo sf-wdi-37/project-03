@@ -36,8 +36,7 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 * **Discover or invent an idea**, preferably one with some group of users that would jump at the chance to really use your product.
 * **Design a product *you* want to build**, and choose _appropriate technologies_ to build it.
-* **Pitch your idea** to your classmates and 
-s, and incorporate their feedback.
+* **Pitch your idea** to your classmates, and incorporate their feedback.
 * **Make productive use of your time**, and balance responsibilities to make a complete, impressive-looking project.
 * **Focus on writing solid, real-world code** that is well-documented and DRY.
 
