@@ -26,7 +26,7 @@
 
 Make sure it's **something you can accomplish in the limited time we have**, and make sure it's **something that will be visually impressive**.
 
-**Most will work on this project individually, but pairs may be approved in special cases.**  See the [project planning deliverables](#project-planning-deliverables) section below for extra planning requirements for pairs.
+**This project will be completed individually.**
 
 ---
 
@@ -87,11 +87,6 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 * **Milestones:** Divide your work into parts - the most essential features for your MVP, features that are important but not essential, and features that can be saved for a later iteration. Create 3-5 major milestones with dates outlining when you expect essential features will be done.
 * **Feasibility Study:** If you're using an external API or scraping a website, make sure you can get that data. If you're using a new language, framework, or tool, go through its getting started tutorial. We *will* ask to see your results.
 
-**In addition to the above requirements, students working as pairs must:**
-
-* Detail each person's responsibilities and features they will own.
-* Describe your plan for workflow and communication.
-* Demonstrate that each person will be challenged to contribute excellent work.
 
 ### Completed Project Deliverables
 
