@@ -135,29 +135,6 @@ Project 3 presentations will start at **1:30pm** on **Thursday, June 15th, 2017*
 * What is one feature you're particularly proud of? (show code)
 * Shout-outs for your fellow classmates!
 
----
-
-## Instructor Groups
-
-###### Who will be my assigned instructor for this project?
-
-You'll meet with your assigned instructor daily throughout the project for feedback and guidance. 
-
-#### Instructor: Brianna
-
-* TBD
-* TBD
-* TBD
-* TBD
-
-
-#### Instructors: Cory / Jean
-
-* TBD
-* TBD
-* TBD
-* TBD
-
 
 ---
 
